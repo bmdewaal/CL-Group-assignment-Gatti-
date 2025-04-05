@@ -14,9 +14,13 @@ Important: Due to licensing restrictions and file sizes, the data is not include
 
 ### Gatti Pseudowords Data:
 Download the pseudoword dataset from Gatti and colleagues from Springer – Data Availability.
+[Gatti Pseudowords Data:](https://link-springer-com.tilburguniversity.idm.oclc.org/article/10.3758/s13423-024-02487-3#data-availability)
+
 
 ### Speed & Brysbaert Data:
 Download the dataset, including the prevalence Netherlands file, from OSF – Prevalence Netherlands File.
+[Speed & Brysbaert Data](https://osf.io/jex9n)
+
 
 ## Setup Instructions
 
