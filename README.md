@@ -36,7 +36,7 @@ Run the Code:
 With the data in place, you can run the provided scripts to preprocess the data, train the models, and predict valence values.
 
 ## FastText (text) model for Dutch
-[Download the model here](https://fasttext.cc/docs/en/crawl-vectors.html). Make sure to download the text model, not the bin version, as the bin model is more advanced and not necessary for this study replication.
+[Download the model here](https://fasttext.cc/docs/en/crawl-vectors.html). Make sure to download the bin model, not the text version, as text model can only be used for static embeddings, and we need the model's subword capabilities for pseudoword encoding.
 
 ## Usage
 Before running the scripts, ensure your working directory is set to the repository's root. Detailed instructions on how to execute the scripts and analyze the results are provided within the code comments.
