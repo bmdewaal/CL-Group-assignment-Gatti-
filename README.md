@@ -35,5 +35,8 @@ prevalence_netherlands.csv
 Run the Code:
 With the data in place, you can run the provided scripts to preprocess the data, train the models, and predict valence values.
 
+## FastText (text) model for Dutch
+[Download the model here](https://fasttext.cc/docs/en/crawl-vectors.html)
+
 ## Usage
 Before running the scripts, ensure your working directory is set to the repository's root. Detailed instructions on how to execute the scripts and analyze the results are provided within the code comments.
